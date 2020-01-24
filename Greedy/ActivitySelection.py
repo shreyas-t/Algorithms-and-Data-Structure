@@ -1,3 +1,5 @@
+# Activity Selection using Greedy Algorithm
+
 class Activity:
     
     def __init__(self, start, finish):
