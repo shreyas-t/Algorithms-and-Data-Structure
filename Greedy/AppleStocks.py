@@ -1,4 +1,5 @@
 # Problem: Buy and Sell Stock so that profit is max
+# O(n) solution
 
 def getMaxProfit(stock_prices):
 

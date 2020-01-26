@@ -13,9 +13,9 @@ def egyptianFraction(nr, dr):
         print("Not a fraction")
         return
 
-    
+    #Handling the condition nr > dr
     if(nr>dr):
-        print("1/{} + ".format(math.floor(nr/dr)),end ='')
+        print("{} + ".format(math.floor(nr/dr)),end ='')
         egyptianFraction(nr%dr, dr)
         return
     
@@ -25,4 +25,4 @@ def egyptianFraction(nr, dr):
     print("1/{} + ".format(n),end ='')
     egyptianFraction(n*nr-dr, n*dr)
 
-egyptianFraction(6, 14) 
+egyptianFraction(14, 6) 

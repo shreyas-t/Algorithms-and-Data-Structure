@@ -1,3 +1,5 @@
+#Problem: Get Product of all other numbers except the index element
+
 def get_product_of_all_other(arr):
 
     if len(arr) < 2:
