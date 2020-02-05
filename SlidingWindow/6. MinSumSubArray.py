@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-minimum-sum-subarray-given-size-k/
+
 import sys
 INT_MAX = sys.maxsize
 

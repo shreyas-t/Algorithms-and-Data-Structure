@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/length-of-smallest-subarray-with-sum-greater-number/
+
 import sys
 
 def smallestSubarray(arr, k):

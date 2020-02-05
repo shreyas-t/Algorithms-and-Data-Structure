@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-longest-substring-given-string-containing-distinct-characters/
+
 CHAR_SIZE = 256
 
 def containsUnique(count):

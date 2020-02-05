@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-maximum-length-sequence-continuous-ones-sliding-window/
+
 def findIndexOfZero(arr):
     n = len(arr)
 

@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-substrings-string-permutation-given-string/
+
 MAX_CHAR = 256
 
 def compare(arr1, arr2):

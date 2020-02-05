@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-longest-substring-containing-k-distinct-characters/
+
 MAX_CHARS = 26
 
 def kUniques(s, k):

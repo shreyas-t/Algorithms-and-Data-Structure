@@ -1,3 +1,5 @@
+# https://www.techiedelight.com/find-subarray-having-given-sum-given-array/
+
 def findSubarray(arr, sum):
     n = len(arr)
 
